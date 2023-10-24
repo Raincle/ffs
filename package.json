@@ -1,6 +1,6 @@
 {
   "name": "ff-style",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Format Figma Style",
   "main": "index.js",
   "bin": {
