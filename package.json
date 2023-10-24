@@ -1,5 +1,5 @@
 {
-  "name": "ffs",
+  "name": "ff-style",
   "version": "1.0.0",
   "description": "Format Figma Style",
   "main": "index.js",
@@ -14,7 +14,8 @@
     "ffs",
     "format",
     "figma",
-    "style"
+    "style",
+    "css"
   ],
   "author": "Rain",
   "license": "MIT",
