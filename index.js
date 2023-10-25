@@ -1,9 +1,8 @@
 #!/usr/bin/env node
 
 const fs = require('fs')
-const path = require('path')
 
-const filePath = path.resolve(__dirname, process.argv[2])
+const filePath = process.argv[2]
 const cssContent = fs.readFileSync(filePath, "utf-8")
 
 const lines = cssContent.split("\n")
