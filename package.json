@@ -1,7 +1,7 @@
 {
   "name": "ff-style",
-  "version": "1.0.3",
-  "description": "Format Figma Style",
+  "version": "1.0.4",
+  "description": "Format Figma Style to CSS-IN-JS",
   "main": "index.js",
   "bin": {
     "ffs": "index.js"
@@ -18,7 +18,8 @@
     "format",
     "figma",
     "style",
-    "css"
+    "css",
+    "css in js"
   ],
   "author": "Rain",
   "license": "MIT",
