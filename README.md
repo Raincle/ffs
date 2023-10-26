@@ -1,5 +1,5 @@
 # FF-Style
-Format Figma Style to CSS-IN-JS
+<span style="color:#D95730;font-weight:bold">F</span>ormat <span style="color:#D95730;font-weight:bold">F</span>igma <span style="color:#D95730;font-weight:bold">S</span><span style="color:#E67666;font-weight:bold">t</span><span style="color:#935AEE;font-weight:bold">y</span><span style="color:#55B3F0;font-weight:bold">l</span><span style="color:#5CC685;font-weight:bold">e</span> to CSS-IN-JS
 
 ## Before
 ```css
@@ -28,8 +28,11 @@ lineHeight: "16px",
 - Quotation mark to value
 - Replace semicolon with comma
 - Remove comments
+- Ignore braces
 
 ## Installation
+To run <span style="color:#D95730;font-weight:bold">ffs</span>
+You should install this package globally:
 ```sh
 $ sudo npm i -g ff-style
 ```

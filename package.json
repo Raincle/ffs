@@ -1,6 +1,6 @@
 {
   "name": "ff-style",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Format Figma Style to CSS-IN-JS",
   "main": "index.js",
   "bin": {

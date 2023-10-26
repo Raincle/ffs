@@ -9,7 +9,7 @@ const lines = cssContent.split("\n")
 let newCss = []
 for (let i = 0; i < lines.length; i++) {
     const element = lines[i];
-    if (!element || element.indexOf(': "') > 0) {
+    if (!element || element.indexOf(': "') > 0 || ["{", "}"].indexOf(element) >= 0) {
         newCss.push(element)
     } else if (element && !element.startsWith("/*")) {
         const kv = element.split("/*")[0].split(": ")
