@@ -1,5 +1,6 @@
 # FF-Style
-<span style="color:#D95730;font-weight:bold">F</span>ormat <span style="color:#D95730;font-weight:bold">F</span>igma <span style="color:#D95730;font-weight:bold">S</span><span style="color:#E67666;font-weight:bold">t</span><span style="color:#935AEE;font-weight:bold">y</span><span style="color:#55B3F0;font-weight:bold">l</span><span style="color:#5CC685;font-weight:bold">e</span> to CSS-IN-JS
+**F**ormat **F**igma **S**tyle to CSS-IN-JS
+
 
 ## Before
 ```css
@@ -31,15 +32,14 @@ lineHeight: "16px",
 - Ignore braces
 
 ## Installation
-To run <span style="color:#D95730;font-weight:bold">ffs</span>
-You should install this package globally:
+To run **ffs**, you should install this package globally:
 ```sh
 $ sudo npm i -g ff-style
 ```
 
 ## Usage
 1. Copy CSS in Figma and paste in fileToFormat.
-2. Make sure you have installed ff-style globally.
+2. Make sure you have installed ff-style **globally**.
 3. Run the command below:
 ```js
 ffs ./fileToFormat
